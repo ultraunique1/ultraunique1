@@ -13,3 +13,42 @@ My work and learning interests span data analysis, statistical research, softwar
 - 💻 Developing applications using Python and web technologies.
 - 🔍 Interested in Monitoring & Evaluation, data collection, and reporting.
 - 🚀 Passionate about continuous learning and solving real-world problems.
+---
+
+### 🛠️ Technical Skills
+
+**Programming Languages**
+- Python
+- JavaScript
+- HTML5
+- CSS3
+
+**Frameworks & Libraries**
+- Flask
+- Tkinter
+- CustomTkinter
+- Pandas
+
+**Databases**
+- SQLite
+
+**Data Analysis & Productivity**
+- Microsoft Excel
+- Statistical Analysis
+- Data Visualization
+- Data Collection and Reporting
+
+**Development Tools**
+- Visual Studio Code
+- Git
+- GitHub
+
+---
+
+### 🎯 Areas of Interest
+
+- Data Analytics and Statistical Research
+- Software and Web Development
+- Interactive Applications
+- Monitoring and Evaluation
+- Data-Driven Decision Making
