@@ -125,3 +125,16 @@ A data analysis project designed to explore student academic records and generat
 - Data summarization.
 
 **Status:** In Development.
+---
+
+## 🤝 Connect With Me
+
+I'm always interested in connecting with professionals, collaborating on projects, and exploring opportunities in technology, data analytics, and research.
+
+- 💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/umaru-sako-941607347)
+- 💻 GitHub: [Explore my repositories](https://github.com/ultraunique1)
+- 📧 Email:[email me](https://mail.google.com/mail/?view=cm&fs=1&to=ultraunique1@gmail.com)
+
+---
+
+⭐ *Always learning, building, and exploring new ways to solve real-world problems through data and technology.*
