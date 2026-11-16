@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Sako John Umaru 👋
 
-<!--
-**ultraunique1/ultraunique1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Statistics Graduate | Data Analyst | Python Developer | Web Developer
 
-Here are some ideas to get you started:
+I'm a Statistics graduate with an interest in using data, analytical thinking, and technology to solve practical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work and learning interests span data analysis, statistical research, software development, and interactive applications. I enjoy building practical projects that transform ideas into functional solutions.
+
+### About Me
+
+- 🎓 Background in Statistics.
+- 📊 Interested in data analysis, statistical modelling, and research.
+- 💻 Developing applications using Python and web technologies.
+- 🔍 Interested in Monitoring & Evaluation, data collection, and reporting.
+- 🚀 Passionate about continuous learning and solving real-world problems.
