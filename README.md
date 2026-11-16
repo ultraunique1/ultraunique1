@@ -52,3 +52,76 @@ My work and learning interests span data analysis, statistical research, softwar
 - Interactive Applications
 - Monitoring and Evaluation
 - Data-Driven Decision Making
+---
+
+## 🚀 Featured Projects
+
+### 🌍 RealityVerse – Virtual World Simulation
+An interactive simulation platform designed to represent entities within a virtual environment and explore how different factors influence their performance.
+
+**Technologies:** HTML, CSS, JavaScript
+
+**Key Features:**
+- Interactive entity creation and management.
+- Entity connections and relationships.
+- Simulation environment.
+- Predictive modelling concepts for business performance.
+
+**Status:** In Development.
+
+---
+
+### 🎓 Student Academic Performance Dashboard
+A web-based academic management and analysis application designed to organize student information and monitor academic performance.
+
+**Technologies:** Python, Flask, SQLite, HTML, CSS, JavaScript
+
+**Key Features:**
+- Student records management.
+- Academic performance monitoring.
+- Attendance tracking.
+- Results and subject management.
+
+**Status:** In Development.
+
+---
+
+### 🧮 Python Calculator
+A desktop calculator application developed using Python and Tkinter.
+
+**Technologies:** Python, Tkinter
+
+**Key Features:**
+- Graphical user interface.
+- Interactive calculator buttons.
+- Mathematical expression evaluation.
+
+**Status:** Completed.
+
+---
+
+### 🎵 Desktop MP3 Player
+A desktop music player application developed with Python and CustomTkinter.
+
+**Technologies:** Python, CustomTkinter
+
+**Key Features:**
+- Graphical desktop interface.
+- Music playback functionality.
+- Interactive controls.
+
+**Status:** In Development.
+
+---
+
+### 📊 Student Performance Analyzer
+A data analysis project designed to explore student academic records and generate insights into academic performance.
+
+**Technologies:** Python, Pandas, Excel
+
+**Key Features:**
+- Spreadsheet data handling.
+- Student performance analysis.
+- Data summarization.
+
+**Status:** In Development.
